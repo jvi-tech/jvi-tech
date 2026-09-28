@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher47.AppsCustomizeTabHost background="type28:0x00000000">
+  <LinearLayout orientation="1" id="@0x7f110010" layout_width="4294967295" layout_height="4294967295">
+    <FrameLayout layout_gravity="0x00000001" id="@0x7f110011" visibility="2" layout_width="4294967294" layout_height="@0x7f0d0013" layout_marginTop="@0x7f0d0014">
+      <com.android.launcher47.FocusOnlyTabWidget gravity="0x00800003" layout_gravity="0x00000011" id="@0x01020013" background="@0x7f020186" layout_width="4294967295" layout_height="4294967295" divider="@0x00000000" tabStripEnabled="false">
+      </com.android.launcher47.FocusOnlyTabWidget>
+      <include layout_gravity="0x00800005" id="@0x7f110012" layout_width="4294967294" layout_height="4294967295" layout="@layout/market_button">
+      </include>
+    </FrameLayout>
+    <FrameLayout id="@0x01020011" layout_width="4294967295" layout_height="4294967295">
+      <com.android.launcher47.AppsCustomizePagedView id="@0x7f110013" layout_width="4294967295" layout_height="4294967295" layout_marginBottom="@0x7f0d0019" maxGap="@0x7f0d000b" pageIndicator="@0x7f110014" widgetCountX="@0x7f0b003e" widgetCountY="@0x7f0b003f" clingFocusedX="@0x7f0b003c" clingFocusedY="@0x7f0b003d">
+      </com.android.launcher47.AppsCustomizePagedView>
+      <FrameLayout id="@0x7f110015" background="type28:0x00000000" visibility="2" layout_width="4294967295" layout_height="4294967295">
+      </FrameLayout>
+      <include layout_gravity="0x00000051" id="@0x7f110014" layout_width="4294967294" layout_height="4294967294" layout_marginBottom="@0x7f0d0018" layout="@layout/page_indicator">
+      </include>
+    </FrameLayout>
+  </LinearLayout>
+</com.android.launcher47.AppsCustomizeTabHost>

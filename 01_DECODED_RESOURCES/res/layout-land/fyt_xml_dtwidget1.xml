@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="442px" layout_height="169px">
+  <RelativeLayout id="@0x7f110051" background="@0x7f02007a" layout_width="4294967294" layout_height="4294967294" layout_centerInParent="true">
+    <RelativeLayout id="@0x7f11005d" layout_width="285dip" layout_height="4294967295" layout_alignParentLeft="true">
+      <LinearLayout orientation="0" id="@0x7f110052" layout_width="4294967294" layout_height="4294967294" layout_centerInParent="true">
+        <ImageView id="@0x7f110053" layout_width="4294967294" layout_height="4294967294" src="@0x7f020142" scaleType="1">
+        </ImageView>
+        <ImageView id="@0x7f110054" layout_width="4294967294" layout_height="4294967294" src="@0x7f020140" scaleType="1">
+        </ImageView>
+        <ImageView id="@0x7f110055" padding="@0x7f0d0088" layout_width="4294967294" layout_height="4294967294" src="@0x7f020155" scaleType="1">
+        </ImageView>
+        <ImageView id="@0x7f110056" layout_width="4294967294" layout_height="4294967294" src="@0x7f020145" scaleType="1">
+        </ImageView>
+        <ImageView id="@0x7f110057" layout_width="4294967294" layout_height="4294967294" src="@0x7f020145" scaleType="1">
+        </ImageView>
+      </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout id="@0x7f11005e" layout_width="148dip" layout_height="4294967295" layout_alignParentRight="true">
+      <TextView textSize="23px" textColor="@0x0106000b" id="@0x7f110059" layout_width="4294967294" layout_height="4294967294" layout_marginTop="35dip" text="星期五">
+      </TextView>
+      <TextView textSize="@0x7f0d0093" textColor="@0x0106000b" id="@0x7f11005f" layout_width="4294967294" layout_height="4294967294" text="下午" layout_below="@0x7f110059" layout_alignLeft="@0x7f110059">
+      </TextView>
+      <TextView textSize="23px" textColor="@0x0106000b" id="@0x7f110058" layout_width="4294967294" layout_height="4294967294" layout_marginTop="35dip" text="2015-06-09" layout_below="@0x7f110059" layout_alignLeft="@0x7f110059">
+      </TextView>
+    </RelativeLayout>
+  </RelativeLayout>
+</RelativeLayout>

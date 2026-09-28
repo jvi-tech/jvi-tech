@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+  <item state_pressed="true" drawable="@0x7f020038">
+  </item>
+  <item drawable="@0x7f020036">
+  </item>
+</selector>

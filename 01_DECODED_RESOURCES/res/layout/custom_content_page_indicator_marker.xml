@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher47.PageIndicatorMarker layout_gravity="0x00000010" layout_width="16dip" layout_height="16dip">
+  <ImageView id="@0x7f11001f" layout_width="4294967295" layout_height="4294967295" src="@0x7f02006f" scaleType="7">
+  </ImageView>
+  <ImageView id="@0x7f110020" layout_width="4294967295" layout_height="4294967295" src="@0x7f02006f" scaleType="7" alpha="0.0" scaleX="0.5" scaleY="0.5">
+  </ImageView>
+</com.android.launcher47.PageIndicatorMarker>

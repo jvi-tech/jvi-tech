@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="0x00000010" orientation="1" background="@0x7f020024" clickable="true" layout_width="4294967294" layout_height="4294967294">
+  <RelativeLayout layout_gravity="0x00000001" layout_width="4294967295" layout_height="4294967294">
+    <ImageView id="@0x7f110061" layout_width="@0x7f0d0074" layout_height="@0x7f0d0074" layout_centerHorizontal="true">
+    </ImageView>
+  </RelativeLayout>
+  <TextView textSize="@0x7f0d0076" textColor="@0x0106000b" ellipsize="3" gravity="0x00000001" layout_gravity="0x00000001" id="@0x7f110062" layout_width="4294967295" layout_height="4294967294" layout_marginTop="@0x7f0d0075" singleLine="true">
+  </TextView>
+</LinearLayout>

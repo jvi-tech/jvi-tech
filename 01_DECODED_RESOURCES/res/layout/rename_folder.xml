@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="1" padding="20dip" layout_width="4294967295" layout_height="4294967294">
+  <TextView textAppearance="@0x01010041" gravity="0x00800003" id="@0x7f110084" layout_width="4294967294" layout_height="4294967294" text="@0x7f0c0016">
+  </TextView>
+  <EditText textAppearance="@0x01010041" gravity="0x00000007" id="@0x7f110085" layout_width="4294967295" layout_height="4294967294" scrollHorizontally="true" maxLength="30" capitalize="0" autoText="false">
+  </EditText>
+</LinearLayout>

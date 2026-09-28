@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+  <item id="@0x01020000" drawable="@0x7f02017a">
+  </item>
+  <item id="@0x0102000d" drawable="@0x7f02017c">
+  </item>
+</layer-list>

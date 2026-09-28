@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout background="@0x7f0200f7" padding="30px" layout_width="4294967295" layout_height="4294967295">
+  <RelativeLayout layout_width="4294967294" layout_height="430px">
+    <GridView scrollbarStyle="50331648" id="@0x7f110039" layout_width="4294967295" layout_height="4294967295" horizontalSpacing="20px" verticalSpacing="20px" numColumns="6">
+    </GridView>
+  </RelativeLayout>
+</RelativeLayout>

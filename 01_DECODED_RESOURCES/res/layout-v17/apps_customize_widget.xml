@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher47.PagedViewWidget orientation="1" background="@0x7f020077" focusable="true" layout_width="4294967295" layout_height="4294967295" layout_weight="1.0">
+  <com.android.launcher47.PagedViewWidgetImageView id="@0x7f110017" background="@0x7f020176" paddingTop="@0x7f0d0021" layout_width="4294967295" layout_height="4294967294" scaleType="0" layout_weight="1.0" paddingStart="@0x7f0d001f" paddingEnd="@0x7f0d0020">
+  </com.android.launcher47.PagedViewWidgetImageView>
+  <LinearLayout orientation="0" layout_width="4294967295" layout_height="4294967294" layout_marginTop="@0x7f0d0022" layout_marginStart="@0x7f0d0023" layout_marginEnd="@0x7f0d0024">
+    <TextView textSize="13sp" textColor="type28:0xffffffff" ellipsize="4" gravity="0x00800003" id="@0x7f110018" fadingEdge="0x00001000" layout_width="4294967294" layout_height="4294967294" singleLine="true" shadowColor="type28:0xb0000000" shadowRadius="2.0" layout_weight="1.0" fontFamily="sans-serif-condensed" textAlignment="5">
+    </TextView>
+    <TextView textSize="12sp" textColor="type28:0xffaaaaaa" gravity="0x00800003" layout_gravity="0x00000011" id="@0x7f110019" layout_width="4294967294" layout_height="4294967294" shadowColor="type28:0xb0000000" shadowRadius="2.0" layout_weight="0.0" fontFamily="sans-serif-condensed" layout_marginStart="5dip">
+    </TextView>
+  </LinearLayout>
+</com.android.launcher47.PagedViewWidget>

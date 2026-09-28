@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher47.Cling layout_width="4294967295" layout_height="4294967295" drawIdentifier="workspace_portrait">
+  <FrameLayout id="@0x7f11001a" layout_width="4294967295" layout_height="4294967295">
+    <LinearLayout layout_gravity="0x00000030" orientation="1" layout_width="4294967295" layout_height="4294967294" layout_marginTop="30dip">
+      <LinearLayout orientation="1" background="@0x7f02002f" paddingLeft="20dip" paddingTop="20dip" paddingRight="20dip" paddingBottom="20dip" layout_width="4294967295" layout_height="4294967294">
+        <TextView layout_width="4294967294" layout_height="4294967294" text="@0x7f0c0050" style="@style/ClingTitleText">
+        </TextView>
+        <TextView layout_width="4294967295" layout_height="4294967294" text="@0x7f0c0051" style="@style/ClingText">
+        </TextView>
+      </LinearLayout>
+      <ImageView layout_gravity="0x00000001" layout_width="4294967294" layout_height="4294967294" src="@0x7f020030">
+      </ImageView>
+    </LinearLayout>
+    <LinearLayout layout_gravity="0x00000053" orientation="1" id="@0x7f110097" visibility="2" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="25dip" layout_marginBottom="90dip">
+      <LinearLayout orientation="1" background="@0x7f02002f" paddingLeft="20dip" paddingTop="20dip" paddingRight="20dip" paddingBottom="20dip" layout_width="240dip" layout_height="4294967294">
+        <TextView id="@0x7f110098" layout_width="4294967294" layout_height="4294967294" style="@style/ClingTitleText">
+        </TextView>
+        <TextView id="@0x7f110099" layout_width="4294967295" layout_height="4294967294" style="@style/ClingText">
+        </TextView>
+      </LinearLayout>
+      <ImageView layout_gravity="0x00000003" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="78dip" src="@0x7f020030">
+      </ImageView>
+    </LinearLayout>
+  </FrameLayout>
+  <Button layout_gravity="0x00000055" layout_width="4294967294" layout_height="4294967294" layout_marginRight="20dip" layout_marginBottom="15dip" onClick="dismissWorkspaceCling" style="@style/ClingButton">
+  </Button>
+</com.android.launcher47.Cling>

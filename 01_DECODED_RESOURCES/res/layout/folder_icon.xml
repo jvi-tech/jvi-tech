@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher47.FolderIcon orientation="1" background="@0x7f020077" focusable="true" layout_width="4294967295" layout_height="4294967295">
+  <ImageView layout_gravity="0x00000001" id="@0x7f110044" layout_width="4294967294" layout_height="4294967294" src="@0x7f02015e" antialias="true">
+  </ImageView>
+  <com.android.launcher47.BubbleTextView id="@0x7f110045" style="@style/WorkspaceIcon">
+  </com.android.launcher47.BubbleTextView>
+</com.android.launcher47.FolderIcon>

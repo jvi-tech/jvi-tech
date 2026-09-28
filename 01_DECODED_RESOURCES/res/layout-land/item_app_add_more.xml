@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="1" clickable="true" layout_width="110px" layout_height="4294967295">
+  <RelativeLayout paddingTop="20px" layout_width="160px" layout_height="4294967294">
+    <ImageView layout_gravity="0x00000011" id="@0x7f110061" background="@0x7f02001c" layout_width="90px" layout_height="90px" layout_centerHorizontal="true">
+    </ImageView>
+  </RelativeLayout>
+</LinearLayout>

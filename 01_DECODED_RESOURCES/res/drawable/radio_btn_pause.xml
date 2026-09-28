@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+  <item state_focused="true" drawable="@0x7f02016c">
+  </item>
+  <item state_pressed="true" drawable="@0x7f02016c">
+  </item>
+  <item drawable="@0x7f02016b">
+  </item>
+</selector>

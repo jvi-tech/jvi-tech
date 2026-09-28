@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+  <solid color="type28:0xf0dcdcdc">
+  </solid>
+  <stroke width="1dip" color="type29:0xffa5a5a5">
+  </stroke>
+  <corners radius="5dip">
+  </corners>
+  <padding left="10dip" top="5dip" right="10dip" bottom="5dip">
+  </padding>
+</shape>

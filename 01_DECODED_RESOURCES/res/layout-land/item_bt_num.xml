@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="0x00000010" orientation="0" layout_width="4294967295" layout_height="4294967295">
+  <ImageView id="@0x7f110063" padding="10dip" layout_width="62px" layout_height="62px">
+  </ImageView>
+  <com.syu.util.TVYSRegular textSize="22px" textColor="@0x0106000b" ellipsize="4" id="@0x7f110064" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="26px" singleLine="true" marqueeRepeatLimit="4294967295">
+  </com.syu.util.TVYSRegular>
+</LinearLayout>

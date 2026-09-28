@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition>
+  <item drawable="@0x7f0200c0">
+  </item>
+  <item drawable="@0x7f0200bf">
+  </item>
+</transition>

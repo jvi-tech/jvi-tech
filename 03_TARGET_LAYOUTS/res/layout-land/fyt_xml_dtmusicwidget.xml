@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="984px" layout_height="306px">
+  <RelativeLayout id="@0x7f110046" layout_width="316px" layout_height="250px" layout_marginLeft="25px" layout_marginTop="40px" layout_alignParentLeft="true">
+    <ImageView id="@0x7f110047" layout_width="4294967295" layout_height="4294967295">
+    </ImageView>
+    <ImageView id="@0x7f110048" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="25px" layout_marginTop="25px" layout_alignParentLeft="true">
+    </ImageView>
+    <TextView textSize="22px" textColor="@0x0106000b" ellipsize="3" id="@0x7f110049" layout_width="250px" layout_height="4294967294" layout_marginLeft="10px" layout_marginTop="18px" text="@0x7f0c008f" singleLine="true" layout_toRightOf="@0x7f110048">
+    </TextView>
+    <TextView textSize="22px" textColor="@0x0106000b" ellipsize="3" id="@0x7f11004a" layout_width="250px" layout_height="4294967294" layout_marginTop="2px" text="@0x7f0c0090" singleLine="true" layout_below="@0x7f110049" layout_alignLeft="@0x7f110049">
+    </TextView>
+    <ImageView id="@0x7f110030" layout_width="4294967294" layout_height="4294967294" layout_marginTop="180px" src="@0x7f020131" layout_centerHorizontal="true">
+    </ImageView>
+    <ImageView id="@0x7f11002f" layout_width="4294967294" layout_height="4294967294" layout_marginRight="50px" src="@0x7f020022" layout_toLeftOf="@0x7f110030" layout_alignTop="@0x7f110030">
+    </ImageView>
+    <ImageView id="@0x7f110031" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="50px" src="@0x7f020021" layout_toRightOf="@0x7f110030" layout_alignTop="@0x7f110030">
+    </ImageView>
+  </RelativeLayout>
+  <RelativeLayout id="@0x7f11004b" layout_width="316px" layout_height="250px" layout_marginLeft="10px" layout_toRightOf="@0x7f110046" layout_alignTop="@0x7f110046">
+    <TextView textSize="22px" textColor="@0x0106000b" id="@0x7f11004c" layout_width="4294967294" layout_height="4294967294" layout_marginTop="30px" text="FM" layout_centerHorizontal="true">
+    </TextView>
+    <TextView textSize="24px" textColor="@0x0106000b" id="@0x7f11004d" layout_width="4294967294" layout_height="4294967294" layout_marginBottom="30px" text="KHz" layout_alignParentBottom="true" layout_centerHorizontal="true">
+    </TextView>
+    <TextView textSize="56px" textColor="@0x0106000b" id="@0x7f11004e" layout_width="4294967294" layout_height="4294967294" text="87.50" layout_centerInParent="true">
+    </TextView>
+    <ImageView id="@0x7f11004f" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="10px" src="@0x7f020166" layout_alignParentLeft="true" layout_centerVertical="true">
+    </ImageView>
+    <ImageView id="@0x7f110050" layout_width="4294967294" layout_height="4294967294" layout_marginRight="10px" src="@0x7f020163" layout_alignParentRight="true" layout_centerVertical="true">
+    </ImageView>
+  </RelativeLayout>
+  <RelativeLayout layout_width="250px" layout_height="250px" layout_marginRight="25px" layout_alignTop="@0x7f11004b" layout_alignParentRight="true">
+    <RelativeLayout id="@0x7f110051" layout_width="4294967295" layout_height="67px">
+      <RelativeLayout id="@0x7f110052" layout_width="240px" layout_height="67px" layout_centerInParent="true">
+        <ImageView id="@0x7f110053" layout_width="4294967294" layout_height="4294967294" src="@0x7f020142" scaleType="1" layout_alignParentLeft="true">
+        </ImageView>
+        <ImageView id="@0x7f110054" layout_width="4294967294" layout_height="4294967294" src="@0x7f020140" scaleType="1" layout_toRightOf="@0x7f110053">
+        </ImageView>
+        <ImageView id="@0x7f110055" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="@0x7f0d0088" layout_marginRight="@0x7f0d0088" src="@0x7f020155" scaleType="1" layout_toRightOf="@0x7f110054">
+        </ImageView>
+        <ImageView id="@0x7f110056" layout_width="4294967294" layout_height="4294967294" src="@0x7f020145" scaleType="1" layout_toRightOf="@0x7f110055">
+        </ImageView>
+        <ImageView id="@0x7f110057" layout_width="4294967294" layout_height="4294967294" src="@0x7f020145" scaleType="1" layout_toRightOf="@0x7f110056">
+        </ImageView>
+      </RelativeLayout>
+    </RelativeLayout>
+    <TextView textSize="22px" textColor="@0x0106000b" ellipsize="3" id="@0x7f110058" layout_width="140px" layout_height="4294967294" layout_marginTop="85px" singleLine="true" layout_alignParentRight="true">
+    </TextView>
+    <TextView textSize="19px" textColor="@0x0106000b" ellipsize="3" id="@0x7f110059" layout_width="140px" layout_height="4294967294" singleLine="true" layout_below="@0x7f110058" layout_alignParentRight="true">
+    </TextView>
+    <ImageView id="@0x7f11005a" layout_width="80px" layout_height="70px" layout_marginLeft="5px" layout_marginTop="80px" src="@0x7f0200f6" layout_alignParentLeft="true">
+    </ImageView>
+    <ImageView id="@0x7f11005b" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="55px" layout_marginTop="190px" layout_alignParentLeft="true">
+    </ImageView>
+    <TextView textSize="22px" textColor="@0x0106000b" ellipsize="3" gravity="0x00000011" id="@0x7f11005c" layout_width="60px" layout_height="4294967294" layout_marginTop="180px" layout_marginRight="32px" maxLines="2" minLines="2" layout_alignParentRight="true">
+    </TextView>
+  </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="0x00000001" orientation="1" background="@0x7f020011" layout_width="4294967295" layout_height="4294967295">
+  <RelativeLayout id="@0x7f110073" layout_width="4294967295" layout_height="0dip" layout_weight="1.0">
+    <View background="@0x7f020028" layout_width="80px" layout_height="80px" layout_centerInParent="true">
+    </View>
+  </RelativeLayout>
+  <RelativeLayout id="@0x7f110074" layout_width="4294967295" layout_height="0dip" layout_weight="1.0">
+    <View background="@0x7f020027" layout_width="80px" layout_height="80px" layout_centerInParent="true">
+    </View>
+  </RelativeLayout>
+  <RelativeLayout id="@0x7f110079" layout_width="4294967295" layout_height="0dip" layout_weight="1.0">
+    <View background="@0x7f020025" layout_width="80px" layout_height="80px" layout_centerInParent="true">
+    </View>
+  </RelativeLayout>
+  <RelativeLayout id="@0x7f11007a" layout_width="4294967295" layout_height="0dip" layout_weight="1.0">
+    <View background="@0x7f02002a" layout_width="80px" layout_height="80px" layout_centerInParent="true">
+    </View>
+  </RelativeLayout>
+  <RelativeLayout id="@0x7f11007b" layout_width="4294967295" layout_height="0dip" layout_weight="1.0">
+    <include id="@0x7f110078" layout_width="80px" layout_height="80px" layout_centerInParent="true" layout="@layout/qsb_bar">
+    </include>
+  </RelativeLayout>
+</LinearLayout>

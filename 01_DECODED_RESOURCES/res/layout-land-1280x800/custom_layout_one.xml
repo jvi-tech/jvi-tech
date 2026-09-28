@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="4294967295" layout_height="4294967295">
+  <RelativeLayout id="@0x7f110021" background="@0x7f020013" layout_width="@0x7f0d0487" layout_height="@0x7f0d0b44" layout_marginTop="@0x7f0d0893" layout_alignLeft="@0x7f110032">
+    <LinearLayout orientation="1" id="@0x7f110022" layout_width="4294967294" layout_height="4294967294" layout_marginTop="@0x7f0d08ab" layout_centerHorizontal="true">
+      <LinearLayout layout_gravity="0x00000001" orientation="0" paddingBottom="@0x7f0d088d" layout_width="4294967294" layout_height="4294967294">
+        <TextView id="@0x7f110023" layout_width="@0x7f0d00e3" layout_height="@0x7f0d0103">
+        </TextView>
+        <TextView id="@0x7f110024" layout_width="@0x7f0d00e3" layout_height="@0x7f0d0103">
+        </TextView>
+        <TextView id="@0x7f110025" layout_width="@0x7f0d00e3" layout_height="@0x7f0d0103">
+        </TextView>
+      </LinearLayout>
+      <TextView textSize="@0x7f0d00cf" layout_gravity="0x00000011" id="@0x7f110026" layout_width="4294967294" layout_height="4294967294" layout_marginTop="@0x7f0d0887" text="km/h">
+      </TextView>
+    </LinearLayout>
+    <ImageView id="@0x7f110034" background="@0x7f0200f8" layout_width="4294967295" layout_height="4294967295">
+    </ImageView>
+    <ImageView id="@0x7f110035" background="@0x7f02013d" layout_width="@0x7f0d0273" layout_height="@0x7f0d09f5" layout_marginBottom="@0x7f0d08c9" layout_alignParentBottom="true" layout_centerHorizontal="true">
+    </ImageView>
+  </RelativeLayout>
+  <RelativeLayout id="@0x7f110028" background="@0x7f020016" padding="@0x7f0d00bd" layout_width="@0x7f0d0389" layout_height="@0x7f0d09a0" layout_marginRight="@0x7f0d00e0" layout_alignTop="@0x7f110021" layout_alignParentRight="true">
+    <com.fyt.widget.DigitClock id="@0x7f110029" padding="@0x7f0d00db" layout_width="4294967294" layout_height="4294967294">
+    </com.fyt.widget.DigitClock>
+    <com.fyt.widget.WeekDay textSize="@0x7f0d00e5" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="@0x7f0d02bb" singleLine="true" layout_below="@0x7f110029">
+    </com.fyt.widget.WeekDay>
+    <com.fyt.widget.Date textSize="@0x7f0d00e5" paddingLeft="@0x7f0d00e5" layout_width="4294967294" layout_height="4294967294" layout_marginTop="@0x7f0d0887" singleLine="true" layout_below="@0x7f110029">
+    </com.fyt.widget.Date>
+    <com.fyt.widget.DateAmPm textSize="@0x7f0d00ef" textColor="@0x0106000b" layout_width="4294967294" layout_height="4294967294" layout_marginBottom="@0x7f0d0899" layout_toRightOf="@0x7f110029" layout_alignBottom="@0x7f110029">
+    </com.fyt.widget.DateAmPm>
+  </RelativeLayout>
+  <RelativeLayout id="@0x7f11002a" background="@0x7f020012" layout_width="@0x7f0d0389" layout_height="@0x7f0d0a06" layout_alignRight="@0x7f110028" layout_alignBottom="@0x7f110021">
+    <ImageView id="@0x7f11002b" background="@0x7f02012d" layout_width="@0x7f0d0167" layout_height="@0x7f0d0167" layout_marginLeft="@0x7f0d00e5" layout_marginTop="@0x7f0d08b5" scaleType="5" layout_alignParentLeft="true">
+    </ImageView>
+    <TextView textSize="@0x7f0d00db" textColor="@0x0106000b" ellipsize="3" id="@0x7f11002c" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="@0x7f0d00c7" maxWidth="@0x7f0d027f" text="@0x7f0c008d" singleLine="true" layout_toRightOf="@0x7f11002b" layout_alignTop="@0x7f11002b">
+    </TextView>
+    <TextView textSize="@0x7f0d00cc" ellipsize="3" id="@0x7f11002d" layout_width="4294967294" layout_height="4294967294" layout_marginTop="@0x7f0d0897" maxWidth="@0x7f0d027f" text="@0x7f0c008e" singleLine="true" layout_below="@0x7f11002c" layout_alignLeft="@0x7f11002c">
+    </TextView>
+    <ProgressBar id="@0x7f11002e" layout_width="@0x7f0d026d" layout_height="@0x7f0d088c" max="1000" progress="0" progressDrawable="@0x7f020162" layout_alignLeft="@0x7f11002c" layout_alignBottom="@0x7f11002b" style="?android:attr/progressBarStyleHorizontal">
+    </ProgressBar>
+    <LinearLayout orientation="0" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="@0x7f0d00fe" layout_below="@0x7f11002b">
+      <TextView textSize="@0x7f0d00c6" id="@0x7f110036" layout_width="4294967294" layout_height="4294967294" text="00:00:00">
+      </TextView>
+      <TextView textSize="@0x7f0d00c6" id="@0x7f110037" layout_width="4294967294" layout_height="4294967294" text="/">
+      </TextView>
+      <TextView textSize="@0x7f0d00c6" id="@0x7f110038" layout_width="4294967294" layout_height="4294967294" text="00:00:00">
+      </TextView>
+    </LinearLayout>
+    <LinearLayout orientation="0" layout_width="4294967295" layout_height="4294967294" layout_alignParentBottom="true">
+      <RelativeLayout layout_width="0dip" layout_height="4294967294" layout_weight="1.0">
+        <Button id="@0x7f11002f" background="@0x7f020022" layout_width="@0x7f0d012b" layout_height="@0x7f0d012b" layout_centerInParent="true">
+        </Button>
+      </RelativeLayout>
+      <RelativeLayout layout_width="0dip" layout_height="4294967294" layout_weight="1.0">
+        <Button id="@0x7f110030" background="@0x7f020131" layout_width="@0x7f0d012b" layout_height="@0x7f0d012b" layout_centerInParent="true">
+        </Button>
+      </RelativeLayout>
+      <RelativeLayout layout_width="0dip" layout_height="4294967294" layout_weight="1.0">
+        <Button id="@0x7f110031" background="@0x7f020021" layout_width="@0x7f0d012b" layout_height="@0x7f0d012b" layout_centerInParent="true">
+        </Button>
+      </RelativeLayout>
+    </LinearLayout>
+  </RelativeLayout>
+  <RelativeLayout id="@0x7f110032" background="@0x7f020007" layout_width="@0x7f0d077f" layout_height="@0x7f0d09af" layout_margin="@0x7f0d00e0" layout_alignParentRight="true" layout_alignParentBottom="true">
+    <com.fyt.widget.HorizontalListView id="@0x7f110033" layout_width="4294967295" layout_height="4294967295" layout_marginLeft="@0x7f0d00db" layout_marginRight="@0x7f0d00db" layout_centerVertical="true">
+    </com.fyt.widget.HorizontalListView>
+  </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout background="@0x7f02015c" layout_width="4294967295" layout_height="4294967295">
+  <SeekBar id="@0x7f110080" layout_width="335px" layout_height="4294967294" progressDrawable="@0x7f0200f4" thumb="@0x7f02017d" layout_centerInParent="true">
+  </SeekBar>
+  <ImageView layout_width="4294967294" layout_height="4294967294" src="@0x7f02017b" layout_toLeftOf="@0x7f110080" layout_centerVertical="true">
+  </ImageView>
+  <TextView textSize="40px" textColor="@0x0106000b" id="@0x7f110081" layout_width="4294967294" layout_height="4294967294" singleLine="true" layout_toRightOf="@0x7f110080" layout_centerVertical="true">
+  </TextView>
+</RelativeLayout>

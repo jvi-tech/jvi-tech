@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="0x00000051" orientation="0" paddingBottom="@0x7f0d002d" layout_width="4294967294" layout_height="4294967294">
+  <TextView textSize="12sp" gravity="0x00000001" id="@0x7f11007c" layout_width="4294967294" layout_height="4294967294" text="@0x7f0c0065" drawableTop="@0x7f0201a7" drawablePadding="4dip" textAllCaps="true" fontFamily="sans-serif-condensed">
+  </TextView>
+  <TextView textSize="12sp" gravity="0x00000001" id="@0x7f11007d" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="@0x7f0d000e" text="@0x7f0c0064" drawableTop="@0x7f0201a7" drawablePadding="4dip" textAllCaps="true" fontFamily="sans-serif-condensed">
+  </TextView>
+  <TextView textSize="12sp" gravity="0x00000001" id="@0x7f11007e" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="@0x7f0d000e" text="@0x7f0c0063" drawableTop="@0x7f0201a9" drawablePadding="4dip" textAllCaps="true" fontFamily="sans-serif-condensed">
+  </TextView>
+  <TextView textSize="12sp" gravity="0x00000001" id="@0x7f11007f" visibility="2" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="@0x7f0d000e" text="@0x7f0c0066" drawableTop="@0x7f02017f" drawablePadding="4dip" textAllCaps="true" fontFamily="sans-serif-condensed">
+  </TextView>
+</LinearLayout>

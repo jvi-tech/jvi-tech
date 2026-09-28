@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher47.Cling drawIdentifier="folder_portrait">
+  <FrameLayout layout_width="4294967295" layout_height="4294967295" layout_marginTop="@0x7f0d0008">
+    <LinearLayout orientation="1" layout_width="4294967295" layout_height="4294967294">
+      <TextView id="@0x7f110042" text="@0x7f0c0054" style="@style/ClingTitleText">
+      </TextView>
+      <TextView id="@0x7f110043" layout_width="4294967295" layout_height="4294967294" text="@0x7f0c0055" style="@style/ClingText">
+      </TextView>
+    </LinearLayout>
+  </FrameLayout>
+  <Button textSize="24sp" layout_gravity="0x00800055" id="@0x7f11000e" layout_marginBottom="27dip" minWidth="168dip" onClick="dismissFolderCling" style="@style/ClingButton">
+  </Button>
+</com.android.launcher47.Cling>

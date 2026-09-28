@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout layout_width="4294967295" layout_height="4294967295" style="?android:actionButtonStyle">
+  <TextView textSize="20sp" gravity="0x00000010" layout_gravity="0x00000053" paddingRight="20dip" layout_width="4294967294" layout_height="4294967294" text="@0x7f0c0005" drawableLeft="@0x7f0200a7" drawablePadding="8dip" style="?android:actionBarTabTextStyle">
+  </TextView>
+</FrameLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher47.WallpaperRootView id="@0x7f11008b" layout_width="4294967295" layout_height="4294967295">
+  <com.android.launcher47.CropView id="@0x7f11008d" layout_width="4294967295" layout_height="4294967295">
+  </com.android.launcher47.CropView>
+  <ProgressBar layout_gravity="0x00000011" id="@0x7f11008c" background="@0x0106000d" visibility="1" layout_width="4294967294" layout_height="4294967294" indeterminate="true" indeterminateOnly="true" style="@android:style/Widget.Holo.ProgressBar.Large">
+  </ProgressBar>
+  <LinearLayout orientation="1" id="@0x7f11008e" layout_width="4294967295" layout_height="4294967294" layout_alignParentBottom="true">
+    <View background="@0x7f02018e" layout_width="4294967295" layout_height="2dip">
+    </View>
+    <HorizontalScrollView id="@0x7f11008f" layout_width="4294967295" layout_height="4294967294">
+      <LinearLayout orientation="0" id="@0x7f110090" layout_width="4294967294" layout_height="4294967294">
+        <LinearLayout orientation="0" id="@0x7f110091" layout_width="4294967294" layout_height="4294967294">
+        </LinearLayout>
+        <LinearLayout orientation="0" id="@0x7f110092" layout_width="4294967294" layout_height="4294967294">
+        </LinearLayout>
+        <LinearLayout orientation="0" id="@0x7f110093" layout_width="4294967294" layout_height="4294967294">
+        </LinearLayout>
+      </LinearLayout>
+    </HorizontalScrollView>
+    <View background="@0x7f02018d" layout_width="4294967295" layout_height="2dip">
+    </View>
+  </LinearLayout>
+</com.android.launcher47.WallpaperRootView>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape>
+  <solid color="type28:0xff72cae1">
+  </solid>
+  <corners topLeftRadius="10dip" topRightRadius="10dip" bottomLeftRadius="10dip" bottomRightRadius="10dip">
+  </corners>
+</shape>

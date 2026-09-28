@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher47.MCellLayout layout_width="4294967294" layout_height="4294967294" hapticFeedbackEnabled="false" maxGap="@0x7f0d000b">
+  <include id="@0x7f11009a" layout="@layout/custom_layout_one">
+  </include>
+</com.android.launcher47.MCellLayout>

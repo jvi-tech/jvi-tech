@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher47.SearchDropTargetBar focusable="false" layout_width="4294967295" layout_height="4294967295" style="@style/QSBBar">
+  <include id="@0x7f110082" layout="@layout/all_apps_btn">
+  </include>
+  <LinearLayout id="@0x7f110083" layout_width="4294967295" layout_height="4294967295" style="@style/SearchDropTargetBar">
+    <include layout="@layout/drop_target_bar">
+    </include>
+  </LinearLayout>
+</com.android.launcher47.SearchDropTargetBar>

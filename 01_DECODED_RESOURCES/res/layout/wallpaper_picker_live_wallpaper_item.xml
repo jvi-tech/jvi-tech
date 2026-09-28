@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher47.CheckableFrameLayout background="@0x7f0201a8" focusable="true" clickable="true" layout_width="@0x7f0d0004" layout_height="@0x7f0d0005" foreground="@0x7f0201a8">
+  <ImageView layout_gravity="0x00000011" id="@0x7f110094" background="@0x0106000c" layout_width="4294967295" layout_height="4294967295" scaleType="6">
+  </ImageView>
+  <ImageView layout_gravity="0x00000011" id="@0x7f110096" visibility="2" layout_width="@0x7f0d0006" layout_height="@0x7f0d0006">
+  </ImageView>
+  <TextView textColor="@0x0106000b" ellipsize="4" gravity="0x00000011" layout_gravity="0x00000050" id="@0x7f110095" background="@0x7f090008" padding="4dip" layout_width="4294967295" layout_height="4294967294" singleLine="true">
+  </TextView>
+</com.android.launcher47.CheckableFrameLayout>

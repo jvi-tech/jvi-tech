@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher47.Folder orientation="1" background="@0x7f02015d" layout_width="4294967294" layout_height="4294967294">
+  <ScrollView id="@0x7f110089" layout_width="4294967295" layout_height="4294967295">
+    <com.android.launcher47.CellLayout id="@0x7f11008a" layout_width="4294967294" layout_height="4294967294" cacheColorHint="type28:0xff333333" hapticFeedbackEnabled="false">
+    </com.android.launcher47.CellLayout>
+  </ScrollView>
+  <com.android.launcher47.FolderEditText textSize="14sp" textColor="type28:0xff777777" textColorHighlight="type28:0xffcccccc" gravity="0x00000001" id="@0x7f110085" background="type28:0x00000000" paddingTop="@0x7f0d0029" paddingBottom="@0x7f0d0029" layout_width="4294967295" layout_height="4294967294" hint="@0x7f0c0045" singleLine="true" layout_centerHorizontal="true" imeOptions="0x10000000" textCursorDrawable="@0x00000000" fontFamily="sans-serif-condensed">
+  </com.android.launcher47.FolderEditText>
+</com.android.launcher47.Folder>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout background="@0x7f020179" layout_width="4294967295" layout_height="4294967295" style="@style/SearchDropTargetBar">
+  <com.android.launcher47.HolographicLinearLayout layout_gravity="0x00000010" id="@0x7f110087" focusable="true" clickable="true" layout_width="4294967295" layout_height="4294967295" layout_centerVertical="true" onClick="onClickSearchButton" contentDescription="@0x7f0c002e" sourceImageViewId="@0x7f110086" style="@style/SearchButton">
+    <ImageView layout_gravity="0x00800003" id="@0x7f110086" layout_width="4294967294" layout_height="4294967295" src="@0x7f0200b8" scaleType="3" adjustViewBounds="true">
+    </ImageView>
+  </com.android.launcher47.HolographicLinearLayout>
+  <com.android.launcher47.HolographicLinearLayout layout_gravity="0x00000010" id="@0x7f110088" focusable="true" clickable="true" layout_width="@0x7f0d0015" layout_height="4294967295" layout_centerVertical="true" onClick="onClickVoiceButton" contentDescription="@0x7f0c002f" sourceImageViewId="@0x7f110070" style="@style/SearchButton">
+    <ImageView layout_gravity="0x00800005" id="@0x7f110070" layout_width="4294967295" layout_height="4294967295" src="@0x7f0200ba" scaleType="3" adjustViewBounds="true">
+    </ImageView>
+  </com.android.launcher47.HolographicLinearLayout>
+</RelativeLayout>

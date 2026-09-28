@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="4294967295" layout_height="4294967295">
+  <ImageView id="@0x7f110008" layout_width="80px" layout_height="70px">
+  </ImageView>
+</RelativeLayout>

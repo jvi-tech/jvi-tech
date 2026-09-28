@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+  <item id="@0x01020000" drawable="@0x7f02017e">
+  </item>
+  <item id="@0x0102000d">
+    <clip>
+      <nine-patch src="@0x7f02013c" dither="true">
+      </nine-patch>
+    </clip>
+  </item>
+</layer-list>

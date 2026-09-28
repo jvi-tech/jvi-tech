@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout id="@0x7f110065" background="@0x7f0201b1" layout_width="4294967295" layout_height="4294967295">
+  <com.android.launcher47.DragLayer id="@0x7f110066" layout_width="4294967295" layout_height="4294967295">
+    <com.android.launcher47.Workspace id="@0x7f110067" layout_width="4294967295" layout_height="4294967295" defaultScreen="@0x7f0b000f" pageSpacing="@0x7f0d00ac" pageIndicator="@0x7f110014">
+    </com.android.launcher47.Workspace>
+    <include id="@0x7f110068" layout_width="4294967295" layout_height="4294967295" layout="@layout/hotseat">
+    </include>
+    <include id="@0x7f110069" visibility="2" layout="@layout/overview_panel">
+    </include>
+    <include layout_gravity="0x00000001" id="@0x7f110014" layout_width="4294967294" layout_height="4294967294" layout="@layout/page_indicator">
+    </include>
+    <include id="@0x7f11006a" layout="@layout/qsb_bar">
+    </include>
+    <com.android.launcher47.ScrimView id="@0x7f11006b" visibility="2" layout_width="4294967295" layout_height="4294967295">
+    </com.android.launcher47.ScrimView>
+    <include id="@0x7f11006c" visibility="2" layout_width="4294967295" layout_height="4294967295" layout="@layout/first_run_cling">
+    </include>
+    <include id="@0x7f11006d" visibility="2" layout_width="4294967295" layout_height="4294967295" layout="@layout/workspace_cling">
+    </include>
+    <include id="@0x7f11006e" visibility="2" layout_width="4294967295" layout_height="4294967295" layout="@layout/folder_cling">
+    </include>
+    <com.android.launcher47.DrawableStateProxyView layout_gravity="0x00800035" id="@0x7f11006f" clickable="true" layout_width="0dip" layout_height="0dip" onClick="onClickVoiceButton" importantForAccessibility="2" sourceViewId="@0x7f110070">
+    </com.android.launcher47.DrawableStateProxyView>
+    <include id="@0x7f110071" visibility="1" layout_width="4294967295" layout_height="4294967295" layout="@layout/apps_customize_pane">
+    </include>
+  </com.android.launcher47.DragLayer>
+</FrameLayout>

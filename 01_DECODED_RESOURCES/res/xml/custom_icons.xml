@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<customicons>
+  <entry epkg="com.android.browser" eclazz="com.android.browser.BrowserActivity" eicon="@0x7f020042">
+  </entry>
+  <entry epkg="org.chromium.chrome" eclazz="com.google.android.apps.chrome.Main" eicon="@0x7f020042">
+  </entry>
+  <entry epkg="com.android.calculator2" eclazz="com.android.calculator2.Calculator" eicon="@0x7f020043">
+  </entry>
+  <entry epkg="com.android.settings" eclazz="com.android.settings.Settings" eicon="@0x7f020048">
+  </entry>
+  <entry epkg="com.fyt.screenbutton" eclazz="com.fyt.screenbutton.Setting" eicon="@0x7f02004b">
+  </entry>
+  <entry epkg="com.syu.av" eclazz="com.syu.av.ActivityLaunch" eicon="@0x7f02004f">
+  </entry>
+  <entry epkg="com.syu.bt" eclazz="com.syu.bt.act.ActBtAvStart" eicon="@0x7f020050">
+  </entry>
+  <entry epkg="com.syu.bt" eclazz="com.syu.bt.BtAct" eicon="@0x7f020051">
+  </entry>
+  <entry epkg="com.syu.canbus" eclazz="com.syu.canbus.ActivityLauncher" eicon="@0x7f020052">
+  </entry>
+  <entry epkg="com.syu.dvr" eclazz="com.syu.dvr.activity.MainActivity" eicon="@0x7f020057">
+  </entry>
+  <entry epkg="com.syu.eq" eclazz="com.syu.eq.Launch" eicon="@0x7f020056">
+  </entry>
+  <entry epkg="com.syu.market" eclazz="com.syu.market.activity.MainMarket" eicon="@0x7f02005d">
+  </entry>
+  <entry epkg="com.syu.eq" eclazz="com.syu.eq.activity.MainActivity" eicon="@0x7f020056">
+  </entry>
+  <entry epkg="com.syu.exdvr" eclazz="com.syu.exdvr.ActivityLaunch" eicon="@0x7f020057">
+  </entry>
+  <entry epkg="com.syu.filemanager" eclazz="com.syu.filemanager.FileManagerActivity" eicon="@0x7f020058">
+  </entry>
+  <entry epkg="com.syu.gallery" eclazz="com.syu.gallery.GalleryActivity" eicon="@0x7f02005b">
+  </entry>
+  <entry epkg="com.syu.guide" eclazz="com.syu.guide.GuideActivity" eicon="@0x7f02005c">
+  </entry>
+  <entry epkg="com.syu.music" eclazz="com.syu.music.MAct" eicon="@0x7f02005e">
+  </entry>
+  <entry epkg="com.syu.music" eclazz="com.syu.app.Activity_All" eicon="@0x7f02005e">
+  </entry>
+  <entry epkg="com.syu.music" eclazz="com.syu.music.Activity_All" eicon="@0x7f02005e">
+  </entry>
+  <entry epkg="com.syu.onekeynavi" eclazz="com.syu.onekeynavi.MainActivity" eicon="@0x7f02005f">
+  </entry>
+  <entry epkg="com.syu.radio" eclazz="com.syu.radio.Launch" eicon="@0x7f020060">
+  </entry>
+  <entry epkg="com.syu.settings" eclazz="com.syu.settings.MainActivity" eicon="@0x7f020048">
+  </entry>
+  <entry epkg="com.syu.steer" eclazz="com.syu.steer.Launch" eicon="@0x7f020061">
+  </entry>
+  <entry epkg="com.syu.tv" eclazz="com.syu.tv.TvMain" eicon="@0x7f020062">
+  </entry>
+  <entry epkg="com.syu.video" eclazz="com.syu.video.main.VideoListActivity" eicon="@0x7f020063">
+  </entry>
+  <entry epkg="com.syu.voice" eclazz="com.syu.voice.VoiceSetup" eicon="@0x7f020065">
+  </entry>
+  <entry epkg="com.syu.voice" eclazz="com.syu.voice.VoiceLaunch" eicon="@0x7f020064">
+  </entry>
+  <entry epkg="com.syu.voice" eclazz="com.syu.voice.Launch" eicon="@0x7f020064">
+  </entry>
+  <entry epkg="net.easyconn" eclazz="net.easyconn.WelcomeActivity" eicon="@0x7f02013f">
+  </entry>
+  <entry epkg="com.android.chrome" eclazz="com.google.android.apps.chrome.Main" eicon="@0x7f020042">
+  </entry>
+  <entry epkg="com.google.android.apps.maps" eclazz="com.google.android.maps.MapsActivity" eicon="@0x7f02004c">
+  </entry>
+  <entry epkg="com.google.android.youtube" eclazz="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" eicon="@0x7f02004d">
+  </entry>
+  <entry epkg="com.syu.fourcamera2" eclazz="com.syu.fourcamera.act.ActFourCamera" eicon="@0x7f020059">
+  </entry>
+  <entry epkg="cn.kuwo.kwmusiccar" eclazz="cn.kuwo.kwmusiccar.WelcomeActivity" eicon="@0x7f020041">
+  </entry>
+  <entry epkg="com.autonavi.amapauto" eclazz="com.autonavi.auto.remote.fill.UsbFillActivity" eicon="@0x7f02004a">
+  </entry>
+  <entry epkg="com.syu.frontvideo" eclazz="com.syu.exdvr.ActivityLaunch" eicon="@0x7f02005a">
+  </entry>
+  <entry epkg="com.android.email" eclazz="com.android.email.activity.Welcome" eicon="@0x7f020046">
+  </entry>
+  <entry epkg="com.android.calendar" eclazz="com.android.calendar.AllInOneActivity" eicon="@0x7f020044">
+  </entry>
+  <entry epkg="com.android.providers.downloads.ui" eclazz="com.android.providers.downloads.ui.DownloadList" eicon="@0x7f020047">
+  </entry>
+  <entry epkg="com.syu.dvd" eclazz="com.syu.dvd.ActivityLauncher" eicon="@0x7f020054">
+  </entry>
+  <entry epkg="com.syu.dvr" eclazz="com.syu.dvr.activity.MainActivity" eicon="@0x7f020055">
+  </entry>
+  <entry epkg="com.syu.carlink" eclazz="com.syu.carlink.MainActivity" eicon="@0x7f020053">
+  </entry>
+</customicons>

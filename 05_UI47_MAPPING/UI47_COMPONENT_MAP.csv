@@ -1,0 +1,18 @@
+﻿Component,Primary file/class,Role,Action for JVI-TECH,Confidence
+Launcher entry,AndroidManifest.xml / com.android.launcher47.Launcher,System HOME entry point,KEEP,High
+Root Home,res/layout-land/launcher.xml,Root DragLayer/Workspace/Hotseat/apps panel,KEEP structure; modify included UI,High
+Home custom UI,res/layout-land/custom_layout_one.xml + resolution variants,Clock/date/media/home composition,PRIMARY EDIT TARGET,High
+Workspace,com.android.launcher47.Workspace,Home pages / workspace behavior,KEEP,High
+Grid/cell,com.android.launcher47.MCellLayout / CellLayout,Positioning and cell layout,KEEP unless UI needs change,High
+App drawer,res/layout/apps_customize_pane.xml + AppsCustomizePagedView,Apps listing,KEEP initially,High
+Hotseat,res/layout/m_hotseat.xml + Hotseat,Bottom/side app area,MODIFY only if target UI replaces it,High
+Music service,com.fyt.car.MusicService,FYT music service bridge,KEEP; do not rewrite,High
+Music widget,res/layout-land/fyt_xml_dtmusicwidget.xml,Music/radio/weather-style widget UI,MODIFY UI only,High
+Clock/date,com.fyt.widget.DigitClock / Date / WeekDay,Live time/date,KEEP logic; restyle layout,High
+Date/weather widget,res/layout-land/fyt_xml_dtwidget1.xml,Date/weather presentation,MODIFY UI only,High
+Navigation widget,res/layout-land/fyt_xml_naviwidget.xml,Navigation widget container,KEEP integration; restyle if needed,High
+Horizontal app list,com.fyt.widget.HorizontalListView,Horizontal item list,KEEP,High
+Page indicator,com.android.launcher47.PageIndicator,Workspace page indicator,KEEP or restyle,High
+FYT/SYU providers,com.syu.widget.music.DateMusicProvider / DateTimeProvider1,AppWidget providers,KEEP,High
+Brand assets,launcher_bk.jpg / fyt_home_bk_*.png / rate_dial_speed.png,Background/car/speed UI,REPLACE with JVI-TECH assets,High
+Buttons,ic_music_btn / ic_radio_btn / ic_navi_btn / ic_set_btn etc.,Home controls,REPLACE/restyle,High

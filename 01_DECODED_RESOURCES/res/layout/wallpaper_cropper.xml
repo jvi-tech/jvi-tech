@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@0x7f11008b" layout_width="4294967295" layout_height="4294967295">
+  <ProgressBar layout_gravity="0x00000011" id="@0x7f11008c" background="@0x0106000d" visibility="1" layout_width="4294967294" layout_height="4294967294" indeterminate="true" indeterminateOnly="true" style="@android:style/Widget.Holo.ProgressBar.Large">
+  </ProgressBar>
+</RelativeLayout>

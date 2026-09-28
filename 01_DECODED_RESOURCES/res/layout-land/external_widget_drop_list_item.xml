@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_width="4294967295" layout_height="64dip">
+  <ImageView layout_gravity="0x00000010" id="@0x7f11003d" layout_width="4294967294" layout_height="4294967294" src="@0x7f030000" scaleType="3" maxWidth="32dip" maxHeight="32dip">
+  </ImageView>
+  <TextView textSize="18sp" gravity="0x00000010" id="@0x7f11003e" layout_width="4294967295" layout_height="4294967295">
+  </TextView>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+  <FrameLayout style="@style/DropTargetButtonContainer">
+    <com.android.launcher47.DeleteDropTarget id="@0x7f11003c" text="@0x7f0c0029" drawableStart="@0x7f020172" style="@style/DropTargetButton">
+    </com.android.launcher47.DeleteDropTarget>
+  </FrameLayout>
+</merge>

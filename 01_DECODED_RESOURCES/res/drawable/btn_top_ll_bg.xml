@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+  <item state_pressed="true">
+    <shape>
+      <corners radius="30px">
+      </corners>
+      <solid color="type28:0x1affffff">
+      </solid>
+    </shape>
+  </item>
+  <item>
+    <shape>
+      <solid color="@0x0106000d">
+      </solid>
+    </shape>
+  </item>
+</selector>

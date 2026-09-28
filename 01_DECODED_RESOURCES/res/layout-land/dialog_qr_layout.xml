@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout gravity="0x00000001" background="@0x0106000b" padding="10dip" layout_width="4294967294" layout_height="4294967294">
+  <ImageView id="@0x7f11003a" layout_width="200dip" layout_height="200dip" layout_centerVertical="true">
+  </ImageView>
+  <TextView textSize="20sp" textColor="@0x0106000c" id="@0x7f11003b" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="10dip" layout_toRightOf="@0x7f11003a" layout_centerVertical="true">
+  </TextView>
+</RelativeLayout>

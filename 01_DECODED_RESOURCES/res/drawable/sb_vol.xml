@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+  <item>
+    <shape>
+      <corners radius="90dip">
+      </corners>
+      <gradient startColor="@0x0106000b" endColor="@0x0106000b" angle="-90.0" type="1" gradientRadius="90dip">
+      </gradient>
+    </shape>
+  </item>
+  <item>
+    <clip>
+      <shape>
+        <corners radius="30dip">
+        </corners>
+        <gradient startColor="type29:0xff30fc73" endColor="type29:0xff30fc73" angle="-90.0" type="1" gradientRadius="90dip">
+        </gradient>
+      </shape>
+    </clip>
+  </item>
+</layer-list>

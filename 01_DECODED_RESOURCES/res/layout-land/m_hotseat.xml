@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="0x00000001" orientation="1" background="@0x7f020011" layout_width="4294967295" layout_height="4294967295">
+  <RelativeLayout id="@0x7f110073" paddingTop="20px" layout_width="4294967295" layout_height="4294967294">
+    <ImageView layout_width="4294967294" layout_height="4294967294" src="@0x7f020028" layout_centerInParent="true">
+    </ImageView>
+  </RelativeLayout>
+  <RelativeLayout id="@0x7f110074" paddingTop="20px" layout_width="4294967295" layout_height="4294967294" layout_marginBottom="20px">
+    <ImageView layout_width="4294967294" layout_height="4294967294" src="@0x7f020027" layout_centerInParent="true">
+    </ImageView>
+  </RelativeLayout>
+  <RelativeLayout layout_width="100px" layout_height="220px">
+    <com.fyt.widget.VSeekBar id="@0x7f110075" layout_width="100px" layout_height="220px" maxHeight="50px" max="36" progressDrawable="@0x7f020175" minHeight="50px" thumb="@0x00000000">
+    </com.fyt.widget.VSeekBar>
+    <RelativeLayout id="@0x7f110076" background="@0x7f0200e1" layout_width="60px" layout_height="60px" layout_marginBottom="10px" layout_alignParentBottom="true" layout_centerHorizontal="true">
+      <TextView textSize="16px" textColor="type29:0xff097945" id="@0x7f110077" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="33px" layout_centerVertical="true">
+      </TextView>
+    </RelativeLayout>
+  </RelativeLayout>
+  <include layout_gravity="0x00000001" id="@0x7f110078" layout_width="100px" layout_height="100px" layout_marginTop="20px" layout="@layout/qsb_bar">
+  </include>
+</LinearLayout>

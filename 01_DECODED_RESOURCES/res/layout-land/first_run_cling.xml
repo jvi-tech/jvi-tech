@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher47.Cling layout_width="4294967295" layout_height="4294967295" drawIdentifier="first_run_portrait">
+  <FrameLayout id="@0x7f11001a" layout_width="4294967295" layout_height="4294967295">
+    <LinearLayout layout_gravity="0x00000011" orientation="1" id="@0x7f11003f" layout_width="4294967295" layout_height="4294967294" layout_marginLeft="100dip" layout_marginRight="100dip">
+      <TextView textSize="30sp" textColor="type28:0xffffffff" gravity="0x00000011" layout_gravity="0x00000001" layout_width="4294967295" layout_height="4294967294" layout_marginBottom="10dip" text="@0x7f0c004b" style="@style/ClingAltTitleText">
+      </TextView>
+      <TextView textSize="16sp" textColor="type28:0x80000000" gravity="0x00000011" layout_gravity="0x00000001" layout_width="4294967295" layout_height="4294967294" text="@0x7f0c004c" style="@style/ClingAltTitleText">
+      </TextView>
+    </LinearLayout>
+    <TextView layout_gravity="0x00800035" id="@0x7f110040" visibility="2" layout_width="160dip" layout_height="4294967294" layout_marginTop="65dip" text="@0x7f0c004e" drawableTop="@0x7f020035" drawablePadding="5dip" style="@style/ClingHintText">
+    </TextView>
+    <TextView layout_gravity="0x00000030" id="@0x7f110041" visibility="2" layout_width="160dip" layout_height="4294967294" layout_marginTop="100dip" text="@0x7f0c004d" drawablePadding="10dip" drawableStart="@0x7f020032" style="@style/ClingHintText">
+    </TextView>
+    <TextView layout_gravity="0x00800055" layout_width="160dip" layout_height="4294967294" layout_marginBottom="85dip" text="@0x7f0c004f" drawablePadding="5dip" drawableEnd="@0x7f020033" style="@style/ClingHintText">
+    </TextView>
+  </FrameLayout>
+  <Button layout_gravity="0x00800055" layout_width="4294967294" layout_height="4294967294" layout_marginBottom="15dip" onClick="dismissFirstRunCling" style="@style/ClingButton">
+  </Button>
+</com.android.launcher47.Cling>

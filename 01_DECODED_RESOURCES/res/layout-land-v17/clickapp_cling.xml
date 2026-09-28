@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.launcher47.Cling layout_width="4294967295" layout_height="4294967295" drawIdentifier="workspace_portrait">
+  <FrameLayout layout_gravity="0x00000001" id="@0x7f11001a" layout_width="859dip" layout_height="402dip" layout_marginTop="40dip">
+    <LinearLayout orientation="1" background="@0x7f020039" layout_width="4294967294" layout_height="4294967294">
+      <TextView id="@0x7f11001b" layout_width="4294967294" layout_height="4294967294" style="@style/ClingTitleText">
+      </TextView>
+      <TextView id="@0x7f11001c" layout_width="4294967295" layout_height="4294967294" style="@style/ClingText">
+      </TextView>
+    </LinearLayout>
+  </FrameLayout>
+  <Button layout_gravity="0x00800055" id="@0x7f11001d" layout_width="4294967294" layout_height="4294967294" layout_marginBottom="20dip" text="@0x7f0c0056" layout_marginEnd="90dip" style="@style/ClingButton">
+  </Button>
+  <Button layout_gravity="0x00800053" id="@0x7f11001e" layout_width="4294967294" layout_height="4294967294" layout_marginBottom="20dip" layout_marginStart="90dip" style="@style/ClingButton">
+  </Button>
+</com.android.launcher47.Cling>

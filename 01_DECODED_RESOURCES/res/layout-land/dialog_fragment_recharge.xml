@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="1" layout_width="4294967295" layout_height="4294967295">
+  <LinearLayout gravity="0x00000001" orientation="1" layout_width="512px" layout_height="400px">
+    <LinearLayout gravity="0x00000010" layout_gravity="0x00000001" orientation="0" visibility="2" layout_width="4294967294" layout_height="60px" layout_marginTop="10px">
+      <TextView textSize="22px" textColor="@0x0106000b" layout_width="4294967294" layout_height="4294967294" text="@0x7f0c00b7">
+      </TextView>
+      <ImageView id="@0x7f110005" layout_width="60px" layout_height="60px" layout_marginLeft="20px">
+      </ImageView>
+      <TextView textSize="20px" textColor="@0x0106000b" id="@0x7f110006" layout_width="4294967294" layout_height="4294967294" layout_marginLeft="20px">
+      </TextView>
+    </LinearLayout>
+    <TextView textSize="22px" textColor="@0x0106000b" gravity="0x00000001" layout_width="4294967294" layout_height="4294967294" layout_margin="10px" text="@0x7f0c00b8">
+    </TextView>
+    <ListView id="@0x7f110007" layout_width="4294967295" layout_height="4294967295">
+    </ListView>
+  </LinearLayout>
+</LinearLayout>

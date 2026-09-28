@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites>
+  <favorite className="com.syu.radio.Launch" packageName="com.syu.radio" screen="0" x="0" y="0">
+  </favorite>
+  <favorite className="com.syu.music.MAct" packageName="com.syu.music" screen="0" x="1" y="0">
+  </favorite>
+  <favorite className="com.syu.bt.BtAct" packageName="com.syu.bt" screen="0" x="2" y="0">
+  </favorite>
+  <favorite className="com.syu.video.main.VideoListActivity" packageName="com.syu.video" screen="0" x="3" y="0">
+  </favorite>
+  <favorite className="com.syu.settings.MainActivity" packageName="com.syu.settings" screen="0" x="4" y="0">
+  </favorite>
+  <appwidget className="com.syu.music.MAppWidget" packageName="com.syu.music" screen="0" x="0" y="1" spanX="5" spanY="1">
+  </appwidget>
+</favorites>

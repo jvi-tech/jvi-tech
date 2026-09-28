@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+  <item state_focused="false" state_selected="true" state_pressed="false" drawable="@0x7f020182">
+  </item>
+  <item state_focused="true" state_selected="false" state_pressed="false" drawable="@0x7f020185">
+  </item>
+  <item state_focused="true" state_selected="true" state_pressed="false" drawable="@0x7f020181">
+  </item>
+  <item state_focused="false" state_selected="false" state_pressed="true" drawable="@0x7f020188">
+  </item>
+  <item state_focused="false" state_selected="true" state_pressed="true" drawable="@0x7f020184">
+  </item>
+  <item state_focused="true" state_selected="false" state_pressed="true" drawable="@0x7f020187">
+  </item>
+  <item state_focused="true" state_selected="true" state_pressed="true" drawable="@0x7f020183">
+  </item>
+</selector>

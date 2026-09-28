@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+  <item state_checked="true" drawable="@0x7f02018c">
+  </item>
+  <item state_focused="true" drawable="@0x7f02018a">
+  </item>
+  <item state_pressed="true" drawable="@0x7f02018b">
+  </item>
+  <item state_selected="true" drawable="@0x7f02018c">
+  </item>
+  <item drawable="@0x0106000d">
+  </item>
+</selector>

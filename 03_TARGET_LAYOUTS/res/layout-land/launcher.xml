@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout id="@0x7f110065" paddingBottom="-10dip" layout_width="4294967295" layout_height="4294967295">
+  <ImageView background="@0x7f020190" visibility="2" layout_width="4294967294" layout_height="4294967294" layout_marginTop="60dip">
+  </ImageView>
+  <com.android.launcher47.DragLayer id="@0x7f110066" fitsSystemWindows="true" layout_width="4294967295" layout_height="4294967295">
+    <com.android.launcher47.Workspace layout_gravity="0x00000011" id="@0x7f110067" layout_width="4294967295" layout_height="4294967295" defaultScreen="@0x7f0b000f" pageSpacing="@0x7f0d00ac">
+    </com.android.launcher47.Workspace>
+    <include layout_gravity="0x00000003" id="@0x7f110068" layout_width="@0x7f0d003a" layout_height="4294967295" layout_marginTop="@0x7f0d003b" layout_marginBottom="@0x7f0d003c" layout="@layout/m_hotseat">
+    </include>
+    <include id="@0x7f110069" visibility="2" layout="@layout/overview_panel">
+    </include>
+    <include layout_gravity="0x00000051" id="@0x7f110014" visibility="2" layout_width="4294967294" layout_height="4294967294" layout="@layout/page_indicator">
+    </include>
+    <com.android.launcher47.ScrimView id="@0x7f11006b" visibility="2" layout_width="4294967295" layout_height="4294967295">
+    </com.android.launcher47.ScrimView>
+    <include id="@0x7f11006c" visibility="2" layout_width="4294967295" layout_height="4294967295" layout="@layout/first_run_cling">
+    </include>
+    <include id="@0x7f11006d" visibility="2" layout_width="4294967295" layout_height="4294967295" layout="@layout/workspace_cling">
+    </include>
+    <include id="@0x7f11006e" visibility="2" layout_width="4294967295" layout_height="4294967295" layout="@layout/folder_cling">
+    </include>
+    <include id="@0x7f110071" visibility="1" layout_width="4294967295" layout_height="4294967295" layout="@layout/apps_customize_pane">
+    </include>
+    <include id="@0x7f110072" visibility="2" layout_width="4294967295" layout_height="4294967295" layout="@layout/clickapp_cling">
+    </include>
+  </com.android.launcher47.DragLayer>
+</FrameLayout>

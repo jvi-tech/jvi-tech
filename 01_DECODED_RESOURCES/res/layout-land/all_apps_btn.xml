@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="4294967295" layout_height="4294967295">
+  <Button id="@0x7f11000b" background="@0x7f020000" focusable="true" clickable="true" layout_width="4294967295" layout_height="4294967295" adjustViewBounds="true" contentDescription="@0x7f0c002e">
+  </Button>
+</RelativeLayout>
